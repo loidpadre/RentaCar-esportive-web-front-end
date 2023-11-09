@@ -19,6 +19,7 @@ const Question = ({ questions }) => {
     return (
         <Wrapper>
             <div className="questio">
+                <h1 className="title-top">MARCAS QUE TEMOS!</h1>
                 {
                     questions.map((question) => {
                         const { title, body, id } = question
