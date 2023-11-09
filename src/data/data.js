@@ -73,4 +73,23 @@ export const Testemunial = [
         desc: "Certifique-se de ajustar os valores de acordo com o que deseja alcançar em seu layout. Note que o suporte ao layout "
     },
 
+]
+
+export const QuentionFrequent = [
+    {
+        id: 1,
+        title: "Ferrary",
+        body: "Certifique-se de ajustar os valores de acordo com o que deseja alcançar em seu layout. Note que o suporte ao layout de várias colunas pode variar em diferentes navegadores, então teste em navegadores diferentes para garantir a compatibilidade."
+    },
+    {
+        id: 2,
+        title: "Mercedes Benze",
+        body: "Certifique-se de ajustar os valores de acordo com o que deseja alcançar em seu layout. Note que o suporte ao layout de várias colunas pode variar em diferentes navegadores, então teste em navegadores diferentes para garantir a compatibilidade."
+    },
+    {
+        id: 3,
+        title: "Mustang",
+        body: "Certifique-se de ajustar os valores de acordo com o que deseja alcançar em seu layout. Note que o suporte ao layout de várias colunas pode variar em diferentes navegadores, então teste em navegadores diferentes para garantir a compatibilidade."
+    },
+
 ] 
